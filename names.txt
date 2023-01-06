@@ -1,5 +1,5 @@
 
 hello my name is abdul wahid 
 im working in git merge conflict
-i have worked on this file hence closing it 
+not removing this one
 

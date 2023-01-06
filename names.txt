@@ -2,5 +2,3 @@
 hello my name is abdul wahid 
 im working in git merge conflict
 not removing this one
-
-
